@@ -20,7 +20,7 @@ public class ThisIsWhereYouCode {
      *         extension without the period otherwise
      */
     public String getFileNameExtension(String filename) {
-        if (filename === null) { return null; }
+        if (filename == null) { return null; }
         return null;
     }
 
